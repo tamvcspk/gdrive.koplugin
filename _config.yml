@@ -1,0 +1,5 @@
+title: gdrive.koplugin
+description: KOReader plugin to browse and read books from Google Drive, offline-first
+theme: jekyll-theme-minimal
+exclude:
+  - docs/plan.md
