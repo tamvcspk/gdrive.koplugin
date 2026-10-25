@@ -1,0 +1,11 @@
+# Credentials and local state - never commit
+gdrive_auth.lua
+gdrive_sources.lua
+*.sqlite3
+*.part
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
